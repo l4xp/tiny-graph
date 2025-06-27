@@ -3,7 +3,8 @@ html, body {
   padding: 0;
 }
 body{
-  align-content: center;
+  margin: 0;
+  overflow: hidden;
 }
 canvas {
   display: block;
