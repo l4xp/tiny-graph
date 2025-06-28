@@ -18,7 +18,7 @@ TinyGraph is a lightweight, interactive graph visualization tool built with p5.j
 
 ## Live Demo
 
-**[Try TinyGraph live here!](https://your-github-pages-url.github.io/tiny-graph/)**  
+**[Try TinyGraph live here!](https://l4xp.github.io/tiny-graph/)**
 *(Suggestion: Host your project on GitHub Pages and link to it here)*
 
 ## Usage Guide
